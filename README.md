@@ -1,2 +1,5 @@
-# pass-auditor
-A lightweight Python password strength auditor
+# PassAudit-CLI 🛡️
+
+A lightweight, zero-dependency Python command-line utility to audit password security using Shannon entropy.
+
+## Usage
